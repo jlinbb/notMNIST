@@ -1,11 +1,13 @@
-###<a href='http://yaroslavvb.com/upload/notMNIST/'>Data Source</a>  
+**Img data:** <a href='http://yaroslavvb.com/upload/notMNIST/'>Data Source</a>  
 
-###Directory:
+**Directory:**
+
 	├── letter_recoginition.py  
 	├── notMNIST.pickle  
 	├── notMNIST_large
 	
-###Requirements:
+**Requirements:**
+
 	matplotlib==2.0.2
 	numpy==1.14.0
 	imageio==2.2.0
