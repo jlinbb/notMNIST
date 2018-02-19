@@ -4,7 +4,8 @@
 
 	├── letter_recoginition.py  
 	├── notMNIST.pickle  
-	├── notMNIST_large
+	├notMNIST_large──   
+	├notMNIST_smalle──
 	
 **Requirements:**
 
